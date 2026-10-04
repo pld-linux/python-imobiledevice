@@ -10,7 +10,7 @@ Summary:	libimobiledevice Python 2 bindings
 Summary(pl.UTF-8):	Wiązania libimobiledevice dla Pythona 2
 Name:		python-imobiledevice
 Version:	1.3.0
-Release:	10
+Release:	11
 License:	LGPL v2+
 Group:		Development/Languages/Python
 #Source0Download: https://www.libimobiledevice.org/
